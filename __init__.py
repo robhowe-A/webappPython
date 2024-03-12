@@ -1,5 +1,5 @@
 """
-The flask application package.
+The flask application package. First deploy to azure
 """
 
 from flask import Flask

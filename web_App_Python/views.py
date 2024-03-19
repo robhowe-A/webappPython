@@ -6,10 +6,24 @@ from datetime import datetime
 from flask import render_template
 from web_App_Python import app
 
+
+
+
 @app.route('/')
 @app.route('/home')
 def home():
     """Renders the home page."""
+    """
+    Guessing what customer's logic is doing
+    import requests
+    api_url = "https://norwayeast.api.cognitive.microsoft.com/history/generate"
+    //api_url = "https://norwayeast.api.cognitive.microsoft.com/history/delete"
+    response = requests.get(api_url)
+    response.json()
+    {'userId': 1, 'id': 1, 'title': 'delectus aut autem', 'completed': False}
+    
+    source: https://realpython.com/api-integration-in-python/
+    """
     return render_template(
         'index.html',
         title='Home Page',

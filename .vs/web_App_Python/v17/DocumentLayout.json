@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{5764D708-7A0B-46C1-922A-63232B9DAF1B}|web_App_Python.pyproj|solutionrelative:web_App_Python\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5764D708-7A0B-46C1-922A-63232B9DAF1B}|web_App_Python.pyproj|C:\\GitHub\\githubwebapppython\\webappPython\\runserver.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5764D708-7A0B-46C1-922A-63232B9DAF1B}|web_App_Python.pyproj|solutionrelative:runserver.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5764D708-7A0B-46C1-922A-63232B9DAF1B}|web_App_Python.pyproj|C:\\GitHub\\githubwebapppython\\webappPython\\web_App_Python\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{5764D708-7A0B-46C1-922A-63232B9DAF1B}|web_App_Python.pyproj|solutionrelative:web_App_Python\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "runserver.py",
+              "DocumentMoniker": "C:\\GitHub\\githubwebapppython\\webappPython\\runserver.py",
+              "RelativeDocumentMoniker": "runserver.py",
+              "ToolTip": "C:\\GitHub\\githubwebapppython\\webappPython\\runserver.py",
+              "RelativeToolTip": "runserver.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-19T14:59:13.587Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +45,14 @@
               "RelativeDocumentMoniker": "web_App_Python\\templates\\index.html",
               "ToolTip": "C:\\GitHub\\githubwebapppython\\webappPython\\web_App_Python\\templates\\index.html",
               "RelativeToolTip": "web_App_Python\\templates\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-03-19T14:05:35.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "views.py",
               "DocumentMoniker": "C:\\GitHub\\githubwebapppython\\webappPython\\web_App_Python\\views.py",
               "RelativeDocumentMoniker": "web_App_Python\\views.py",

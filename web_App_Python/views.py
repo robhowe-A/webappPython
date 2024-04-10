@@ -33,6 +33,7 @@ def home():
 @app.route('/contact')
 def contact():
     """Renders the contact page."""
+    raise Exception("This is a test exception.")
     return render_template(
         'contact.html',
         title='Contact',
